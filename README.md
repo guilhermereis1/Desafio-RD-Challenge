@@ -64,6 +64,18 @@ A tecnologia escolhida para resolução do desafio foi Ruby!
 - [Ruby 3.0.0](https://www.ruby-lang.org/) - [Instalando o Ruby](https://www.ruby-lang.org/pt/documentation/installation/)
 - [Minitest 5.8.4](https://github.com/seattlerb/minitest)
 
+## Execute Application:
+
+```
+ruby csb.rb
+```
+
+## Execute Tests:
+
+```
+ruby customer_success_balancing.rb
+```
+
 ## Autores
 
 [Guilherme Reis](https://github.com/guilhermereis1)
